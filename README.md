@@ -21,5 +21,7 @@ puts "Enter a number:"
 number = gets.chomp.to_i
 result = factorial(number)
 puts "The factorial of #{number} is #{result}"
-```![IMG_2214](https://github.com/MuadDib1969/github-docs-example/assets/22621641/98a85005-7429-4dec-a9f7-7c2578987eae)
+```
+
+![Back-Tick](https://github.com/MuadDib1969/github-docs-example/assets/22621641/98a85005-7429-4dec-a9f7-7c2578987eae)
 
